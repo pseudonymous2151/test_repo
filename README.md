@@ -24,7 +24,7 @@ execution output and in an attempt to closely resemble them.
 * Note: this library doesn't contain all python built-in ones.
 
 ### THIS IS MY FIRST LIBRARY on GitHub
-* Release Date: 22-Feb-2022; Tuesday
+* Release Date: 22-Feb-2022 ; Tuesday
 
 I'm currently in 1st semester at my university at the time of releasing this library. </br>
 
